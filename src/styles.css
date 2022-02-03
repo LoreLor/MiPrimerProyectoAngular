@@ -78,6 +78,7 @@ hr{
 .btn{
     cursor: pointer;
     display: inline-block;
+    justify-content:flex-end;
     border: 0;
     font-weight: bold;
     padding: 10px 20px;
